@@ -24,26 +24,4 @@ GamifyHire is a next-generation job portal that transforms traditional job hunti
 - 🔔 **Smart Notifications**  
   Get notified of new quests, job matches, and leaderboard changes.
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- React / Next.js
-- Tailwind CSS
-- Framer Motion
-
-### Backend
-- Node.js + Express
-- MongoDB / PostgreSQL
-- JWT Authentication
-
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- Postman for API testing
-
----
-
-## 📂 Project Structure
 
